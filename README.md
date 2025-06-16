@@ -17,7 +17,6 @@ To bridge the digital divide and demonstrate that AI is a practical tool to empo
 ## Technologies Used
 
 - HTML5
-- CSS3
 - JavaScript (basic interactivity)
 - Fully static and responsive
 
